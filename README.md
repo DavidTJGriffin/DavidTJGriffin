@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<p>I'm David, a developer from <b>Goodyear, Arizona</b> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojipedia/132/flag-for-arizona-usaz_1f3f4-e0075-e0073-e0061-e007a-e007f.png" height="16"/>.</p>
+
+🔭 I’m currently working on ...
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ukarimu1&show_icons=true&show_icons=true&theme=tokyonight" alt="Xander Rapstine's Github Stats"></img>
 <!--
 **Ukarimu1/Ukarimu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
