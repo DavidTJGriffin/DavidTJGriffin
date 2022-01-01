@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Ukarimu1&color=blueviolet&style=flat-square)
+ 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-griffin-a51193195)
 
 <p>I'm David, a developer from <b>Goodyear, Arizona</b> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojipedia/132/flag-for-arizona-usaz_1f3f4-e0075-e0073-e0061-e007a-e007f.png" height="16"/>.</p>
 
