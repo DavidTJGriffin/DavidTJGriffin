@@ -7,7 +7,7 @@
 ### Hi there 👋
 
 
-<p>I'm David, a developer from <b>Goodyear, Arizona</b>  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojipedia/132/flag-for-arizona-usaz_1f3f4-e0075-e0073-e0061-e007a-e007f.png" height="16"/>.</p>
+<p>I'm David, a full stack web development student from <b>Goodyear, Arizona</b>  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojipedia/132/flag-for-arizona-usaz_1f3f4-e0075-e0073-e0061-e007a-e007f.png" height="16"/></p>
 <p>I am currently learning JavaScript, HTML, CSS, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express.js, React.js and object-oriented programming.</p>
 
 ---
