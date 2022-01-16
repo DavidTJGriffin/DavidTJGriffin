@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Ukarimu1&show_icons=true&show_icons=true&theme=tokyonight" alt="Xander Rapstine's Github Stats"></img>
-![](https://komarev.com/ghpvc/?username=Ukarimu1&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=DavidTJGriffin&color=blueviolet&style=flat-square)
 
 
 ---
@@ -12,7 +12,7 @@
 
 ---
 
-​![​most-langs​](https://github-readme-stats.vercel.app/api/top-langs/?username=Ukarimu1&hide=javascript,html&theme=radical&layout=compact)
+​![​most-langs​](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTJGriffin&hide=javascript,html&theme=radical&layout=compact)
 
 Contact Me:
 
