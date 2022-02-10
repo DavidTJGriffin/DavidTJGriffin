@@ -13,7 +13,8 @@
 
 ---
 
-​![​most-langs​](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTJGriffin&hide=javascript,html&theme=radical&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/DavidTJGriffin/github-readme-stats)
+
 
 Contact Me:
 
