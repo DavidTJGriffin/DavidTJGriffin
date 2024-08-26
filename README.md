@@ -9,7 +9,7 @@
 
 
 <p>I'm David, a Full Stack Web Developer from <b>Arizona</b> </p>
-<p>JavaScript, HTML, CSS, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express.js, React.js and Object-Oriented Programming.</p>
+<p>Python, JavaScript, HTML, CSS, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express.js, React.js and Object-Oriented Programming.</p>
 
 ---
 
