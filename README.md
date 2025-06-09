@@ -10,7 +10,7 @@
 
 <p>I have a solid foundation in software development and coding. I specialize in building reliable systems. My work includes device imaging, automation, scripting tools, and AI-integrated workflows using prompt engineering to solve real-world problems with clarity and purpose.</p>
 
-<p>I treat AI as one of many tools in my developer toolkit. I use it with intent and discernment by integrating it into structured workflows, evaluating its ethical use, and ensuring that any solution aligns with best practices and team standards. My focus is always on understanding the tools I use and producing clean, maintainable, and thoughtful code.</p>
+<p>I treat every tool in my developer toolkit with intent and discernment. I focus on integrating technologies into structured workflows, aligning with best practices and team standards. My priority is always to understand the tools I use and to write clean, maintainable, and thoughtful code.</p>
 
 <p>I bring together scripting, system troubleshooting, and emerging technologies to streamline work, improve reliability, and build practical solutions. I'm currently studying <b>Artificial Intelligence and Machine Learning</b> at <b>Estrella Mountain Community College</b>, while gaining hands-on IT experience through the <b>Year Up United program</b>.</p>
 
