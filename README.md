@@ -1,38 +1,27 @@
-<img src="https://github-readme-stats.vercel.app/api?username=DavidTJGriffin&show_icons=true&show_icons=true&theme=tokyonight" alt="Xander Rapstine's Github Stats"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=DavidTJGriffin&show_icons=true&theme=tokyonight" alt="David Griffin's Github Stats"></img>
 
 ![](https://komarev.com/ghpvc/?username=DavidTJGriffin&color=blueviolet&style=flat-square)
-
 
 ---
 
 ### Hi there 👋
 
+<p>I'm David, a systems builder and technology strategist based in <b>Arizona</b>.</p>
 
-<p>I'm David, a Full Stack Web Developer from <b>Arizona</b> </p>
-<p>Python, JavaScript, HTML, CSS, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express.js, React.js and Object-Oriented Programming.</p>
+<p>I have a solid foundation in software development and coding. I specialize in building reliable systems. My work includes device imaging, automation, scripting tools, and AI-integrated workflows using prompt engineering to solve real-world problems with clarity and purpose.</p>
+
+<p>I treat AI as one of many tools in my developer toolkit. I use it with intent and discernment by integrating it into structured workflows, evaluating its ethical use, and ensuring that any solution aligns with best practices and team standards. My focus is always on understanding the tools I use and producing clean, maintainable, and thoughtful code.</p>
+
+<p>I bring together scripting, system troubleshooting, and emerging technologies to streamline work, improve reliability, and build practical solutions. I'm currently studying <b>Artificial Intelligence and Machine Learning</b> at <b>Estrella Mountain Community College</b>, while gaining hands-on IT experience through the <b>Year Up United program</b>.</p>
+
+<p>Whether I'm optimizing terminal environments, writing clean code, or troubleshooting across Windows and Linux, I lead with precision, adaptability, and a belief that technology should empower people and improve lives.</p>
+
+<p><b>Tools & Tech I’ve worked with:</b> Python, JavaScript, Bash, HTML/CSS, Git, Docker, AutoHotkey, zsh, WSL, Alacritty, Active Directory, Azure, Google Cloud, and more.</p>
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidTJGriffin&theme=tokyonight)](https://github.com/DavidTJGriffin/github-readme-stats)
 
-
-Contact Me:
+📬 **Connect with me:**
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DavidTJGriffin)
-
-
-
-<!--
-**DavidTJGriffin/DavidTJGriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
